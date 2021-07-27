@@ -66,4 +66,7 @@
 
 **▶ comercial_computer_evaluation.xlsm 정리 예시**
 
+: 자료는 내용 관련하여 하나씩 하이퍼링크를 걸어둠.
+</br>
+
 <p align="center"><img src="https://github.com/prizesilvers2/Computer_Architecture/blob/main/Figs/SoCspec_example.PNG?raw=true" width ="80%"></p>
